@@ -1,5 +1,6 @@
 # 2022_Summer_Paper_Study
 Notion Link: [Notion Link](https://flax-relative-743.notion.site/e17e3494e13c4090afefa7d6ca98d3bb?v=cc932f82387c430c9200bedcb82046e1)
+
 ---
 
 매주 1회 3팀으로 나뉘어져 **미적분학, 선형대수학 및 관련 논문**을 공부하고 세미나를 진행합니다.
