@@ -9,7 +9,6 @@
 `Notion Link` [Notion Link](https://flax-relative-743.notion.site/e17e3494e13c4090afefa7d6ca98d3bb?v=cc932f82387c430c9200bedcb82046e1)
 
 
----
 
 ### 1주차
 `수학 1팀(김영호)` 선형근사와 테일러 전개, 뉴턴 방법 / 편미분과 전미분 [Link](https://flax-relative-743.notion.site/1-f07260b39c914ac3bafcec45a31cb2fd)
@@ -18,7 +17,7 @@
 
 `논문팀(이선민, 장이준)` Combining Labeled and Unlabeled Data with Co-Training [Link](https://flax-relative-743.notion.site/1-0d06f9af1b73405ca95ce1a720f3459f)
 
----
+
 
 ### 2주차
 `수학 1팀(김영호, 박시언)` 라그랑주 승수(Lagrange Multiplier)와 규제(Regularization) 및 응용(회귀 모형의 최적화(Ridge, Lasso)) [Link](https://flax-relative-743.notion.site/1-f07260b39c914ac3bafcec45a31cb2fd)
@@ -27,7 +26,7 @@
 
 `논문팀(김현우, 장이준)` Attention is all you need [Link](https://flax-relative-743.notion.site/2-1ea98da2d2af4238912407cd320e0209)
 
----
+
 
 ### 3주차
 `수학 1팀(박시언, 장이준)` 고유값과 고유값 분해 및 응용(PCA, ICA, LDA) [Link](https://flax-relative-743.notion.site/1-f07260b39c914ac3bafcec45a31cb2fd)
